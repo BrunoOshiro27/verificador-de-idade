@@ -1,0 +1,30 @@
+body{
+    background-color:#094062;
+    font:arial ;
+    font-size: 25px;
+}
+header{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+}
+main{
+    background-color:rgb(183, 187, 191);
+    width: 500px;
+    
+    margin:auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.544);
+    padding: 15px;
+}
+div{
+    text-align: center;
+    padding: 5px;
+}
+img{
+    width: 300px;
+}
+footer{
+    text-align: center;
+    font-size: 20px;
+}
